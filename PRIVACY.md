@@ -39,7 +39,7 @@ Shooked requests location access to:
 - Name the specific earthquake in your check-in message
 - Add a map link to a help request, only if you choose to include it
 
-Your location is processed **on your device**. It is not transmitted to Shooked or to any third party. The only time your location leaves your phone is in a help request you choose to send: if you tap **I need help** and choose **Send with my location**, a map link to your position is added to the text message you send. It goes only to the people you send it to, from your own phone, and never to Shooked. You can always choose to send without your location. You can decline location access and still use the app — you will lose distance readouts and nearby-quake alerts, but check-in and the map still work.
+Your location is processed **on your device**. It is not transmitted to Shooked or to any third party. The only time your location leaves your phone is in a help request you choose to send: if you tap **I need help** while **Include my location** is on (you choose this during setup and can change it any time in Settings), a map link to your position is added to the text message you send. It goes only to the people you send it to, from your own phone, and never to Shooked. Turn **Include my location** off to send help requests without it. You can decline location access and still use the app — you will lose distance readouts and nearby-quake alerts, but check-in and the map still work.
 
 ## Notifications
 
